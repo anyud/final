@@ -1,16 +1,16 @@
 import pandas as pd
 
 # Load the uploaded CSV files
-aaa_data = pd.read_csv("D:\\Github Mikezxc\\final\\Data_stock\\AAA Historical Data.csv")
-aapl_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\AAPL Historical Data.csv')
-acb_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\ACB Historical Data.csv')
-bid_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\BID Historical Data.csv')
-ctg_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\CTG Historical Data.csv')
-fpt_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\FPT Historical Data.csv')
-gas_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\AAPL Historical Data.csv')
-nvda_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\NVDA Historical Data.csv')
-vcb_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\VCB Historical Data.csv')
-vnm_data = pd.read_csv('D:\\Github Mikezxc\\final\\Data_stock\\VNM Historical Data.csv')
+aaa_data = pd.read_csv("D:\\Github anyud\\final\\Data_stock\\AAA Historical Data.csv")
+aapl_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\AAPL Historical Data.csv')
+acb_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\ACB Historical Data.csv')
+bid_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\BID Historical Data.csv')
+ctg_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\CTG Historical Data.csv')
+fpt_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\FPT Historical Data.csv')
+gas_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\AAPL Historical Data.csv')
+nvda_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\NVDA Historical Data.csv')
+vcb_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\VCB Historical Data.csv')
+vnm_data = pd.read_csv('D:\\Github anyud\\final\\Data_stock\\VNM Historical Data.csv')
 
 # Function to preprocess the data with updated handling for 'Change %' column
 def preprocess_data(df, stock_id):
