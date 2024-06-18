@@ -1,0 +1,90 @@
+Results of Dickey-Fuller Test for AAA (Differenced):
+Test Statistic                  -35.095387
+p-value                           0.000000
+#Lags Used                        1.000000
+Number of Observations Used    2344.000000
+Critical Value (1%)              -3.433143
+Critical Value (5%)              -2.862774
+Critical Value (10%)             -2.567427
+
+Results of Dickey-Fuller Test for AAPL (Differenced):
+Test Statistic                -1.116025e+01
+p-value                        2.799547e-20
+#Lags Used                     1.700000e+01
+Number of Observations Used    2.355000e+03
+Critical Value (1%)           -3.433130e+00
+Critical Value (5%)           -2.862768e+00
+Critical Value (10%)          -2.567424e+00
+
+Results of Dickey-Fuller Test for ACB (Differenced):
+Test Statistic                -1.111162e+01
+p-value                        3.648070e-20
+#Lags Used                     1.900000e+01
+Number of Observations Used    2.328000e+03
+Critical Value (1%)           -3.433162e+00
+Critical Value (5%)           -2.862782e+00
+Critical Value (10%)          -2.567431e+00
+
+Results of Dickey-Fuller Test for BID (Differenced):
+Test Statistic                  -49.900436
+p-value                           0.000000
+#Lags Used                        0.000000
+Number of Observations Used    2350.000000
+Critical Value (1%)              -3.433136
+Critical Value (5%)              -2.862771
+Critical Value (10%)             -2.567425
+
+Results of Dickey-Fuller Test for CTG (Differenced):
+Test Statistic                  -50.378009
+p-value                           0.000000
+#Lags Used                        0.000000
+Number of Observations Used    2350.000000
+Critical Value (1%)              -3.433136
+Critical Value (5%)              -2.862771
+Critical Value (10%)             -2.567425
+
+Results of Dickey-Fuller Test for FPT (Differenced):
+Test Statistic                -1.143918e+01
+p-value                        6.239184e-21
+#Lags Used                     2.000000e+01
+Number of Observations Used    2.330000e+03
+Critical Value (1%)           -3.433160e+00
+Critical Value (5%)           -2.862781e+00
+Critical Value (10%)          -2.567431e+00
+
+Results of Dickey-Fuller Test for GAS (Differenced):
+Test Statistic                -1.116025e+01
+p-value                        2.799547e-20
+#Lags Used                     1.700000e+01
+Number of Observations Used    2.355000e+03
+Critical Value (1%)           -3.433130e+00
+Critical Value (5%)           -2.862768e+00
+Critical Value (10%)          -2.567424e+00
+
+Results of Dickey-Fuller Test for NVDA (Differenced):
+Test Statistic                   -5.643849
+p-value                           0.000001
+#Lags Used                       25.000000
+Number of Observations Used    2347.000000
+Critical Value (1%)              -3.433139
+Critical Value (5%)              -2.862772
+Critical Value (10%)             -2.567426
+
+Results of Dickey-Fuller Test for VCB (Differenced):
+Test Statistic                  -29.532840
+p-value                           0.000000
+#Lags Used                        2.000000
+Number of Observations Used    2348.000000
+Critical Value (1%)              -3.433138
+Critical Value (5%)              -2.862772
+Critical Value (10%)             -2.567426
+
+Results of Dickey-Fuller Test for VNM (Differenced):
+Test Statistic                  -26.144014
+p-value                           0.000000
+#Lags Used                        3.000000
+Number of Observations Used    2347.000000
+Critical Value (1%)              -3.433139
+Critical Value (5%)              -2.862772
+Critical Value (10%)             -2.567426
+
