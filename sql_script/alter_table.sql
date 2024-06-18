@@ -1,0 +1,9 @@
+SET search_path TO stock;
+
+ALTER TABLE "Dim_Date"
+ALTER COLUMN "Date"
+SET DATA TYPE DATE;
+
+ALTER TABLE "Fact_Stock"
+ALTER COLUMN "Date"
+SET DATA TYPE DATE;
