@@ -92,28 +92,28 @@
         "comment": "",
         "columnIds": [
           "6i96vgIJzPFywn78avGiE",
-          "DVZ8r6871go6AEfFCMPPq",
           "An_ZRozGrsp8hDg6AmVcf",
+          "DVZ8r6871go6AEfFCMPPq",
           "9lL-flNKSRZ_-lwzVy--H",
           "SgiRRPqvsE0iiZKy8Xc7y"
         ],
         "seqColumnIds": [
           "6i96vgIJzPFywn78avGiE",
-          "DVZ8r6871go6AEfFCMPPq",
           "An_ZRozGrsp8hDg6AmVcf",
+          "DVZ8r6871go6AEfFCMPPq",
           "9lL-flNKSRZ_-lwzVy--H",
           "SgiRRPqvsE0iiZKy8Xc7y"
         ],
         "ui": {
-          "x": 450,
-          "y": 224,
+          "x": 403.75,
+          "y": 205.25,
           "zIndex": 3,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1717749041681,
+          "updateAt": 1718705594993,
           "createAt": 1717747811839
         }
       },
@@ -556,8 +556,8 @@
           "columnIds": [
             "6i96vgIJzPFywn78avGiE"
           ],
-          "x": 815,
-          "y": 312,
+          "x": 768.75,
+          "y": 293.25,
           "direction": 2
         },
         "end": {
