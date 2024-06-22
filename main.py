@@ -6,7 +6,7 @@ import pandas as pd
 import psycopg2
 from sqlalchemy import create_engine
 
-sys.path.append(r"D:\Github Mikezxc\final\utils1")
+sys.path.append(r"D:\Github anyud\final\utils1")
 
 from utils1.data_processing import (Date_Dimension_data,
                                     Exception_Stock_Trading_Facts_data,
@@ -20,15 +20,15 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 def main():
     # Provide the absolute path to the config file
-    config_file_path = r"D:\Github Mikezxc\final\config\env.json"
+    config_file_path = r"D:\Github anyud\final\config\env.json"
     
     # List các file SQL cần thực thi
     pre_sql_scripts = [
-        r"D:\Github Mikezxc\final\sql_script\create_schema.sql",
+        r"D:\Github anyud\final\sql_script\create_schema.sql",
     ]
     
     post_sql_scripts = [
-        r"D:\Github Mikezxc\final\sql_script\alter_table.sql",
+        r"D:\Github anyud\final\sql_script\alter_table.sql",
     ]
     
     # Đọc cấu hình cơ sở dữ liệu

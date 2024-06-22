@@ -1,0 +1,90 @@
+Results of Dickey-Fuller Test for AAA:
+Test Statistic                   -2.192263
+p-value                           0.209065
+#Lags Used                        2.000000
+Number of Observations Used    2344.000000
+Critical Value (1%)              -3.433143
+Critical Value (5%)              -2.862774
+Critical Value (10%)             -2.567427
+
+Results of Dickey-Fuller Test for AAPL:
+Test Statistic                    0.008180
+p-value                           0.959203
+#Lags Used                       18.000000
+Number of Observations Used    2355.000000
+Critical Value (1%)              -3.433130
+Critical Value (5%)              -2.862768
+Critical Value (10%)             -2.567424
+
+Results of Dickey-Fuller Test for ACB:
+Test Statistic                   -0.849045
+p-value                           0.804289
+#Lags Used                       20.000000
+Number of Observations Used    2328.000000
+Critical Value (1%)              -3.433162
+Critical Value (5%)              -2.862782
+Critical Value (10%)             -2.567431
+
+Results of Dickey-Fuller Test for BID:
+Test Statistic                   -1.288854
+p-value                           0.634256
+#Lags Used                        1.000000
+Number of Observations Used    2350.000000
+Critical Value (1%)              -3.433136
+Critical Value (5%)              -2.862771
+Critical Value (10%)             -2.567425
+
+Results of Dickey-Fuller Test for CTG:
+Test Statistic                   -1.411310
+p-value                           0.576842
+#Lags Used                        1.000000
+Number of Observations Used    2350.000000
+Critical Value (1%)              -3.433136
+Critical Value (5%)              -2.862771
+Critical Value (10%)             -2.567425
+
+Results of Dickey-Fuller Test for FPT:
+Test Statistic                    3.050860
+p-value                           1.000000
+#Lags Used                       21.000000
+Number of Observations Used    2330.000000
+Critical Value (1%)              -3.433160
+Critical Value (5%)              -2.862781
+Critical Value (10%)             -2.567431
+
+Results of Dickey-Fuller Test for GAS:
+Test Statistic                    0.008180
+p-value                           0.959203
+#Lags Used                       18.000000
+Number of Observations Used    2355.000000
+Critical Value (1%)              -3.433130
+Critical Value (5%)              -2.862768
+Critical Value (10%)             -2.567424
+
+Results of Dickey-Fuller Test for NVDA:
+Test Statistic                    5.250125
+p-value                           1.000000
+#Lags Used                       27.000000
+Number of Observations Used    2346.000000
+Critical Value (1%)              -3.433140
+Critical Value (5%)              -2.862773
+Critical Value (10%)             -2.567426
+
+Results of Dickey-Fuller Test for VCB:
+Test Statistic                   -1.095779
+p-value                           0.716752
+#Lags Used                        3.000000
+Number of Observations Used    2348.000000
+Critical Value (1%)              -3.433138
+Critical Value (5%)              -2.862772
+Critical Value (10%)             -2.567426
+
+Results of Dickey-Fuller Test for VNM:
+Test Statistic                   -1.492602
+p-value                           0.537168
+#Lags Used                        4.000000
+Number of Observations Used    2347.000000
+Critical Value (1%)              -3.433139
+Critical Value (5%)              -2.862772
+Critical Value (10%)             -2.567426
+
