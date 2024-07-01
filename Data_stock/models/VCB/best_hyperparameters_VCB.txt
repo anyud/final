@@ -1,0 +1,7 @@
+Ticker: VCB
+The hyperparameter search is complete. The optimal number of layers is 2.
+Layer 1: 160 units
+Layer 2: 320 units
+The optimal learning rate for the optimizer is 0.0011109201683730445.
+Epochs: 50
+Batch size: 32

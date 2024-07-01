@@ -1,0 +1,6 @@
+Ticker: AAA
+The hyperparameter search is complete. The optimal number of layers is 1.
+Layer 1: 224 units
+The optimal learning rate for the optimizer is 0.000699204056440982.
+Epochs: 50
+Batch size: 32
