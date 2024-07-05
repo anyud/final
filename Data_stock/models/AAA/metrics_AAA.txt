@@ -1,0 +1,7 @@
+Metrics for AAA:
+Mean Squared Error (MSE): 156778.47056998318
+Root Mean Squared Error (RMSE): 395.9526115206
+R-squared (R2): 0.9310251627274403
+Mean Absolute Error (MAE): 329.5222014696609
+Accuracy (within 5% tolerance): 79.5964125560538%
+--------------------------

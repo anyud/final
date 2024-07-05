@@ -1,0 +1,7 @@
+Metrics for VNM:
+Mean Squared Error (MSE): 6673787.850658118
+Root Mean Squared Error (RMSE): 2583.367540761112
+R-squared (R2): 0.5244673558419295
+Mean Absolute Error (MAE): 2153.8500157298663
+Accuracy (within 5% tolerance): 83.22147651006712%
+--------------------------

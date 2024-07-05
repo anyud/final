@@ -1,0 +1,7 @@
+Metrics for GAS:
+Mean Squared Error (MSE): 7155.550277592381
+Root Mean Squared Error (RMSE): 84.59048573919162
+R-squared (R2): -20.051012110787006
+Mean Absolute Error (MAE): 82.86551129190991
+Accuracy (within 5% tolerance): 0.0%
+--------------------------

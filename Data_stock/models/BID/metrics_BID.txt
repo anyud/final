@@ -1,0 +1,7 @@
+Metrics for BID:
+Mean Squared Error (MSE): 1897392.3296908601
+Root Mean Squared Error (RMSE): 1377.4586489949018
+R-squared (R2): 0.9528539294064157
+Mean Absolute Error (MAE): 1110.4909859130314
+Accuracy (within 5% tolerance): 88.59060402684564%
+--------------------------

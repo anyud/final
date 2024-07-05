@@ -1,0 +1,7 @@
+Metrics for ACB:
+Mean Squared Error (MSE): 447523.6327764048
+Root Mean Squared Error (RMSE): 668.9720717462013
+R-squared (R2): 0.9543389790711115
+Mean Absolute Error (MAE): 507.6501217418723
+Accuracy (within 5% tolerance): 91.03139013452915%
+--------------------------

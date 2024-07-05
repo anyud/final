@@ -1,0 +1,7 @@
+Metrics for CTG:
+Mean Squared Error (MSE): 2126436.842620807
+Root Mean Squared Error (RMSE): 1458.2307233839256
+R-squared (R2): 0.8649452196374787
+Mean Absolute Error (MAE): 1249.0824673168343
+Accuracy (within 5% tolerance): 62.41610738255034%
+--------------------------

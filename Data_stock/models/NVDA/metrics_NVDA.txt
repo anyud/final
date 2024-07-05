@@ -1,0 +1,7 @@
+Metrics for NVDA:
+Mean Squared Error (MSE): 5842.0973494098525
+Root Mean Squared Error (RMSE): 76.43361400202042
+R-squared (R2): 0.9142352110673352
+Mean Absolute Error (MAE): 55.34649423332806
+Accuracy (within 5% tolerance): 17.29490022172949%
+--------------------------

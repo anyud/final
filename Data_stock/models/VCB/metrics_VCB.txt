@@ -1,0 +1,7 @@
+Metrics for VCB:
+Mean Squared Error (MSE): 5182461.671000129
+Root Mean Squared Error (RMSE): 2276.5020691842406
+R-squared (R2): 0.9529011048423195
+Mean Absolute Error (MAE): 1953.5790076202463
+Accuracy (within 5% tolerance): 95.07829977628636%
+--------------------------
