@@ -1,7 +1,0 @@
-Metrics for FPT:
-Mean Squared Error (MSE): 10693517.19257319
-Root Mean Squared Error (RMSE): 3270.094370591343
-R-squared (R2): 0.9740738880504881
-Mean Absolute Error (MAE): 2367.41373916387
-Accuracy (within 5% tolerance): 87.02460850111858%
---------------------------

@@ -1,8 +1,0 @@
-Ticker: BID
-The hyperparameter search is complete. The optimal number of layers is 3.
-Layer 1: 320 units
-Layer 2: 96 units
-Layer 3: 192 units
-The optimal learning rate for the optimizer is 0.0023311662519474776.
-Epochs: 50
-Batch size: 32

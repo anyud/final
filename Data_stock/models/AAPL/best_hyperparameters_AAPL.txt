@@ -1,6 +1,0 @@
-Ticker: AAPL
-The hyperparameter search is complete. The optimal number of layers is 1.
-Layer 1: 64 units
-The optimal learning rate for the optimizer is 0.0010817749459071228.
-Epochs: 50
-Batch size: 32
